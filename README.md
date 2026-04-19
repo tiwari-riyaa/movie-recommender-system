@@ -1,4 +1,4 @@
-# movie-recommender-system
+
 # Movie Recommendation System
 
 A content-based movie recommender system built using Machine Learning and Flask.
@@ -42,3 +42,10 @@ This project requires both:
 tmdb_5000_movies.csv
 tmdb_5000_credits.csv
 to run correctly.
+
+###  Screenshots
+
+![Home Page](home.png)
+
+![Recommendations](output.png)
+

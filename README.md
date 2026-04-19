@@ -15,6 +15,7 @@ Real-time poster fetching using TMDB API
 Web interface using Flask
 ▶️ How to Run
 pip install -r requirements.txt
+
 python app.py
 
 
